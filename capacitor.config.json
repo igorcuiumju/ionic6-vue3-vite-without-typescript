@@ -1,0 +1,6 @@
+{
+  "appId": "net.pomodorus.timer.app",
+  "appName": "pomodorus",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
